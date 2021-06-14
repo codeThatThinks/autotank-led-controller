@@ -1,0 +1,55 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG3308BRUZ
+D Low Voltage, 1.15 V to 5.5 V, 8-Channel Bidirectional Logic Level Translator
+K translator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG3308_3308-1.pdf
+$ENDCMP
+#
+$CMP GNDCAN
+D Power symbol creates a global label with name "GNDCAN" , ground
+K power-flag
+$ENDCMP
+#
+$CMP SMDA03C
+D Quad bidirectional transil, Suppressor for ESD protection, 3.3V Standoff, 4 Channels, SO-8
+K ESD protection suppression transient
+F http://www.smc-diodes.com/propdf/SMDA03C%20THRU%20SMDA24C%20N0297%20REV.B.pdf
+$ENDCMP
+#
+$CMP SMDA05C
+D Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SO-8
+K ESD protection suppression transient
+F http://www.smc-diodes.com/propdf/SMDA03C%20THRU%20SMDA24C%20N0297%20REV.B.pdf
+$ENDCMP
+#
+$CMP SMDA12C
+D Quad bidirectional transil, Suppressor for ESD protection, 12V Standoff, 4 Channels, SO-8
+K ESD protection suppression transient
+F http://www.smc-diodes.com/propdf/SMDA03C%20THRU%20SMDA24C%20N0297%20REV.B.pdf
+$ENDCMP
+#
+$CMP SMDA15C
+D Quad bidirectional transil, Suppressor for ESD protection, 15V Standoff, 4 Channels, SO-8
+K ESD protection suppression transient
+F http://www.smc-diodes.com/propdf/SMDA03C%20THRU%20SMDA24C%20N0297%20REV.B.pdf
+$ENDCMP
+#
+$CMP SMDA24C
+D Quad bidirectional transil, Suppressor for ESD protection, 24V Standoff, 4 Channels, SO-8
+K ESD protection suppression transient
+F http://www.smc-diodes.com/propdf/SMDA03C%20THRU%20SMDA24C%20N0297%20REV.B.pdf
+$ENDCMP
+#
+$CMP SMDAxxC
+D Quad bidirectional transil, Suppressor for ESD protection, 4 Channels, SO-8
+K ESD protection suppression transient
+F http://www.smc-diodes.com/propdf/SMDA03C%20THRU%20SMDA24C%20N0297%20REV.B.pdf
+$ENDCMP
+#
+$CMP VCAN
+D Power symbol creates a global label with name "VCAN"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
