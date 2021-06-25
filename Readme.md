@@ -2,7 +2,9 @@
 
 A CANbus-enabled LED and GPIO controller -- PCB design files
 
-![PCB](PCB.jpg)
+![Assembled PCB](Assembled.jpg)
+
+![PCB Render](PCB.jpg)
 
 
 ## Theory of Operation
